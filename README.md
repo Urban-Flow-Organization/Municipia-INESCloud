@@ -8,10 +8,9 @@ INES Cloud is a hardware-agnostic digital platform that acts as the centralized 
 
 |              |                                            |
 |--------------|--------------------------------------------|
-| Dependencies |    |
+| Dependencies |  **Frontend**: Applications developed using Next.js, React, and Flutter. **Map Engine**: Integration of Mapbox, Google Maps SDK and Google Maps Compose on Android, Google Maps SDK and Apple MapKit on iOS, and Google Maps integration on the web through a dedicated external plugin.**Backend**: Services developed using PHP, Java, Node.js, and Go. **Deployment**: Containerized services deployed on AWS Kubernetes environments using Helm charts for application packaging, configuration, and release management.|
 | Contacts     | urbanflow_mun@eng.it |
 | License      | The software is distributed under a proprietary licence and delivered as a Software-as-a-Service (SaaS) solution.                          |
-
 
 
 
